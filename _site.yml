@@ -1,7 +1,7 @@
 name: "ByronAnalytics"
 output_dir: "."
 navbar:
-  title: "Byron Analytics"
+  title: Byron Analytics
   right:
     - text: "Home"
       href: index.html  
