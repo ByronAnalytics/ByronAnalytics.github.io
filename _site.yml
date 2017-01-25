@@ -1,0 +1,18 @@
+name: "ByronAnalytics"
+navbar:
+  title: "Byron Analytics"
+  right:
+    - text: "Home"
+      href: index.html  
+    - text: "About"
+      href: about.html
+    - text: "Contact"
+      href: contact.html
+output: 
+  html_document:
+    theme: cosmo
+    hightlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
+    
