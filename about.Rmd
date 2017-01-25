@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-It's All me
+My bio
