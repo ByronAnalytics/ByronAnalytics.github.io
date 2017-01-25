@@ -2,5 +2,8 @@
 title: "Byron Analytics"
 ---
 
-R-Generate Website!! :D  
-Some more text
+Byron Analytics is dedicated to providing data solutions in the fields of Biology and Ecology. Our motto of "digitize first" is directed at moving field scientist into a more digital world through the use of mobil devices to collect data.
+
+With a background in field biology, I have an integral understanding of the challenges posed in field research. Our applications are focused on functionality, reproducible research, and security. We also look for ways to implement crowdsourcing data to utilize citizen scientist in collecting large data sets to collaborate carefully designed experiments.  
+
+---

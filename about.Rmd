@@ -1,5 +1,11 @@
 ---
 title: "About"
 ---
+### Kevin W. Byron  
+I am a multi-disciplinary scientist with a marine ecology background and advanced coursework in modeling, simulation, and statistics. I've developed software to facilitate the compilation and analysis of data as well as utilized established programs and languages such as R, SAS, ArcGIS, NETLOGO, SATSCAN, ADMB, and SQL.
 
-My bio
+While I was a marine biologist for the City of San Diego, my primary role was to develop R tools for data analysis and processing associated with benthic and oceanographic monitoring of near-shore coastal waters. I developed training courses in R as well as introduced git to the R analytics team. I also perform field work collecting samples, identifying and enumerating polychaetes, general tech support, scientific writing, coordinating ISO compliance through Microsoft Sharepoint, and database management.
+
+In addition to my work for the city, I taught Environmental Science for Platt College and run Byron Analytics, LLC - my consulting business for developing data tools for biologists. Current projects include automating data consolidation, analysis, and reporting for a local environmental firm as well as collaborating with a local bee keeper for an iphone tool that collects and visualizes population data for backyard bee keepers.
+
+---
