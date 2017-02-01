@@ -7,6 +7,18 @@ navbar:
       href: index.html  
     - text: "About"
       href: about.html
+    - text: "Projects"
+      menu:
+        - text: "Shiny @ Sea"
+          icon: ion-android-boat
+          href: https://github.com/kbyron/Shiny_CTD_Validation
+        - text: "TODO List Generator"
+          icon: fa-list
+          href: https://github.com/ByronAnalytics/TODO_Addin
+        - text: "website.Rmd"
+          icon: fa-sitemap
+          href: https://github.com/ByronAnalytics/ByronAnalytics.github.io
+    
 output: 
   html_document:
     theme: cosmo
