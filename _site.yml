@@ -15,6 +15,9 @@ navbar:
         - text: "TODO List Generator"
           icon: fa-list
           href: https://github.com/ByronAnalytics/TODO_Addin
+        - text: "Hive Maps - iOS"  
+          icon: fa-apple
+          href: https://github.com/ByronAnalytics/Hive-Maps
         - text: "website.Rmd"
           icon: fa-sitemap
           href: https://github.com/ByronAnalytics/ByronAnalytics.github.io
