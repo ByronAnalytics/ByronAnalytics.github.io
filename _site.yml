@@ -11,7 +11,7 @@ navbar:
       menu:
         - text: "Shiny @ Sea"
           icon: ion-android-boat
-          href: https://github.com/kbyron/Shiny_CTD_Validation
+          href: https://github.com/ByronAnalytics/Shiny_at_Sea/wiki
         - text: "TODO List Generator"
           icon: fa-list
           href: https://github.com/ByronAnalytics/TODO_Addin
