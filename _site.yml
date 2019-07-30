@@ -11,13 +11,13 @@ navbar:
       menu:
         - text: "Shiny @ Sea"
           icon: ion-android-boat
-          href: https://github.com/ByronAnalytics/Shiny_at_Sea/wiki
+          href: https://github.com/ByronAnalytics/Shiny_at_Sea/wiki/Welcome-to-the-Shiny_at_Sea-wiki!
         - text: "TODO List Generator"
           icon: fa-list
           href: https://github.com/ByronAnalytics/TODO_Addin
         - text: "Hive Maps - iOS"  
           icon: fa-apple
-          href: https://github.com/ByronAnalytics/Hive-Maps
+          href: https://github.com/ByronAnalytics/Hive-Maps/wiki/Hive-Maps
         - text: "website.Rmd"
           icon: fa-sitemap
           href: https://github.com/ByronAnalytics/ByronAnalytics.github.io
