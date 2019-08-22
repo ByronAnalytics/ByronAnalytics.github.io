@@ -12,6 +12,9 @@ navbar:
         - text: "Shiny @ Sea"
           icon: ion-android-boat
           href: https://github.com/ByronAnalytics/Shiny_at_Sea/wiki/Welcome-to-the-Shiny_at_Sea-wiki!
+        - text: "Population Model Birth Announcement (Launch Shiny App)"
+          icon: fa-bullhorn
+          href: https://byronanalytics.shinyapps.io/PopulationModel/
         - text: "TODO List Generator"
           icon: fa-list
           href: https://github.com/ByronAnalytics/TODO_Addin
@@ -21,6 +24,7 @@ navbar:
         - text: "website.Rmd"
           icon: fa-sitemap
           href: https://github.com/ByronAnalytics/ByronAnalytics.github.io
+
     
 output: 
   html_document:
